@@ -335,4 +335,4 @@ O projeto segue um pipeline estruturado em 4 etapas principais:
 
 ---
 
-*Este projeto foi desenvolvido como parte da disciplina de Análise Exploratória de Dados, demonstrando aplicação prática de técnicas de ciência de dados na análise de mercado da indústria de jogos eletrônicos.*
+*Este projeto foi desenvolvido como parte da disciplina de Introdução a Ciência de Dados, demonstrando aplicação prática de técnicas de ciência de dados na análise de mercado da indústria de jogos eletrônicos.*
